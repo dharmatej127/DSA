@@ -1,1 +1,1 @@
-# DSA
+# practiced on Python
