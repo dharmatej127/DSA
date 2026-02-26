@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/dharmatej127/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0066-plus-one](https://github.com/dharmatej127/DSA/tree/master/0066-plus-one) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/dharmatej127/DSA/tree/master/3131-find-the-integer-added-to-array-i) |
 ## Linked List
 |  |
@@ -28,4 +29,8 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/dharmatej127/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+## Math
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/dharmatej127/DSA/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
