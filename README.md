@@ -8,6 +8,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/dharmatej127/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0051-n-queens](https://github.com/dharmatej127/DSA/tree/master/0051-n-queens) |
 | [0066-plus-one](https://github.com/dharmatej127/DSA/tree/master/0066-plus-one) |
+| [1672-richest-customer-wealth](https://github.com/dharmatej127/DSA/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/dharmatej127/DSA/tree/master/1929-concatenation-of-array) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/dharmatej127/DSA/tree/master/3131-find-the-integer-added-to-array-i) |
 | [3731-find-missing-elements](https://github.com/dharmatej127/DSA/tree/master/3731-find-missing-elements) |
@@ -69,4 +70,8 @@
 |  |
 | ------- |
 | [3731-find-missing-elements](https://github.com/dharmatej127/DSA/tree/master/3731-find-missing-elements) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/dharmatej127/DSA/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
