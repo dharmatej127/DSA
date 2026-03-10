@@ -45,6 +45,7 @@
 | ------- |
 | [0066-plus-one](https://github.com/dharmatej127/DSA/tree/master/0066-plus-one) |
 | [0504-base-7](https://github.com/dharmatej127/DSA/tree/master/0504-base-7) |
+| [1551-minimum-operations-to-make-array-equal](https://github.com/dharmatej127/DSA/tree/master/1551-minimum-operations-to-make-array-equal) |
 ## Hash Table
 |  |
 | ------- |
