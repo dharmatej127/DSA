@@ -8,6 +8,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/dharmatej127/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0051-n-queens](https://github.com/dharmatej127/DSA/tree/master/0051-n-queens) |
 | [0066-plus-one](https://github.com/dharmatej127/DSA/tree/master/0066-plus-one) |
+| [0682-baseball-game](https://github.com/dharmatej127/DSA/tree/master/0682-baseball-game) |
 | [1672-richest-customer-wealth](https://github.com/dharmatej127/DSA/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/dharmatej127/DSA/tree/master/1929-concatenation-of-array) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/dharmatej127/DSA/tree/master/3131-find-the-integer-added-to-array-i) |
@@ -59,6 +60,7 @@
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/dharmatej127/DSA/tree/master/0234-palindrome-linked-list) |
+| [0682-baseball-game](https://github.com/dharmatej127/DSA/tree/master/0682-baseball-game) |
 ## Recursion
 |  |
 | ------- |
@@ -70,6 +72,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/dharmatej127/DSA/tree/master/0682-baseball-game) |
 | [1929-concatenation-of-array](https://github.com/dharmatej127/DSA/tree/master/1929-concatenation-of-array) |
 ## Sorting
 |  |
