@@ -62,6 +62,7 @@
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/dharmatej127/DSA/tree/master/0032-longest-valid-parentheses) |
+| [0155-min-stack](https://github.com/dharmatej127/DSA/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/dharmatej127/DSA/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/dharmatej127/DSA/tree/master/0682-baseball-game) |
 ## Recursion
@@ -102,4 +103,8 @@
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/dharmatej127/DSA/tree/master/0032-longest-valid-parentheses) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/dharmatej127/DSA/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
