@@ -12,6 +12,7 @@
 | [1672-richest-customer-wealth](https://github.com/dharmatej127/DSA/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/dharmatej127/DSA/tree/master/1929-concatenation-of-array) |
 | [2527-find-xor-beauty-of-array](https://github.com/dharmatej127/DSA/tree/master/2527-find-xor-beauty-of-array) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/dharmatej127/DSA/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/dharmatej127/DSA/tree/master/3131-find-the-integer-added-to-array-i) |
 | [3731-find-missing-elements](https://github.com/dharmatej127/DSA/tree/master/3731-find-missing-elements) |
 ## Linked List
@@ -55,6 +56,7 @@
 | [0504-base-7](https://github.com/dharmatej127/DSA/tree/master/0504-base-7) |
 | [1551-minimum-operations-to-make-array-equal](https://github.com/dharmatej127/DSA/tree/master/1551-minimum-operations-to-make-array-equal) |
 | [2527-find-xor-beauty-of-array](https://github.com/dharmatej127/DSA/tree/master/2527-find-xor-beauty-of-array) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/dharmatej127/DSA/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 ## Hash Table
 |  |
 | ------- |
