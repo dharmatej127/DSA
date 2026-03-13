@@ -54,6 +54,7 @@
 | ------- |
 | [0066-plus-one](https://github.com/dharmatej127/DSA/tree/master/0066-plus-one) |
 | [0504-base-7](https://github.com/dharmatej127/DSA/tree/master/0504-base-7) |
+| [1323-maximum-69-number](https://github.com/dharmatej127/DSA/tree/master/1323-maximum-69-number) |
 | [1551-minimum-operations-to-make-array-equal](https://github.com/dharmatej127/DSA/tree/master/1551-minimum-operations-to-make-array-equal) |
 | [2527-find-xor-beauty-of-array](https://github.com/dharmatej127/DSA/tree/master/2527-find-xor-beauty-of-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/dharmatej127/DSA/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -114,4 +115,8 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/dharmatej127/DSA/tree/master/0155-min-stack) |
+## Greedy
+|  |
+| ------- |
+| [1323-maximum-69-number](https://github.com/dharmatej127/DSA/tree/master/1323-maximum-69-number) |
 <!---LeetCode Topics End-->
