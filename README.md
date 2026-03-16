@@ -29,6 +29,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dharmatej127/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/dharmatej127/DSA/tree/master/0125-valid-palindrome) |
 | [0142-linked-list-cycle-ii](https://github.com/dharmatej127/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0151-reverse-words-in-a-string](https://github.com/dharmatej127/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0234-palindrome-linked-list](https://github.com/dharmatej127/DSA/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/dharmatej127/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [1768-merge-strings-alternately](https://github.com/dharmatej127/DSA/tree/master/1768-merge-strings-alternately) |
@@ -39,6 +40,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dharmatej127/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/dharmatej127/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/dharmatej127/DSA/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/dharmatej127/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/dharmatej127/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0504-base-7](https://github.com/dharmatej127/DSA/tree/master/0504-base-7) |
 | [0657-robot-return-to-origin](https://github.com/dharmatej127/DSA/tree/master/0657-robot-return-to-origin) |
