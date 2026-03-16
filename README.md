@@ -16,6 +16,7 @@
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/dharmatej127/DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2527-find-xor-beauty-of-array](https://github.com/dharmatej127/DSA/tree/master/2527-find-xor-beauty-of-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/dharmatej127/DSA/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/dharmatej127/DSA/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/dharmatej127/DSA/tree/master/3131-find-the-integer-added-to-array-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/dharmatej127/DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3731-find-missing-elements](https://github.com/dharmatej127/DSA/tree/master/3731-find-missing-elements) |
@@ -51,6 +52,7 @@
 | [1768-merge-strings-alternately](https://github.com/dharmatej127/DSA/tree/master/1768-merge-strings-alternately) |
 | [1859-sorting-the-sentence](https://github.com/dharmatej127/DSA/tree/master/1859-sorting-the-sentence) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/dharmatej127/DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/dharmatej127/DSA/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3340-check-balanced-string](https://github.com/dharmatej127/DSA/tree/master/3340-check-balanced-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/dharmatej127/DSA/tree/master/3498-reverse-degree-of-a-string) |
 ## Binary Search
@@ -83,6 +85,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/dharmatej127/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/dharmatej127/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0771-jewels-and-stones](https://github.com/dharmatej127/DSA/tree/master/0771-jewels-and-stones) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/dharmatej127/DSA/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3731-find-missing-elements](https://github.com/dharmatej127/DSA/tree/master/3731-find-missing-elements) |
 ## Stack
 |  |
@@ -105,6 +108,7 @@
 | [0657-robot-return-to-origin](https://github.com/dharmatej127/DSA/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/dharmatej127/DSA/tree/master/0682-baseball-game) |
 | [1929-concatenation-of-array](https://github.com/dharmatej127/DSA/tree/master/1929-concatenation-of-array) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/dharmatej127/DSA/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3498-reverse-degree-of-a-string](https://github.com/dharmatej127/DSA/tree/master/3498-reverse-degree-of-a-string) |
 ## Sorting
 |  |
