@@ -47,6 +47,7 @@
 | [0771-jewels-and-stones](https://github.com/dharmatej127/DSA/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/dharmatej127/DSA/tree/master/0796-rotate-string) |
 | [1768-merge-strings-alternately](https://github.com/dharmatej127/DSA/tree/master/1768-merge-strings-alternately) |
+| [1859-sorting-the-sentence](https://github.com/dharmatej127/DSA/tree/master/1859-sorting-the-sentence) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/dharmatej127/DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [3340-check-balanced-string](https://github.com/dharmatej127/DSA/tree/master/3340-check-balanced-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/dharmatej127/DSA/tree/master/3498-reverse-degree-of-a-string) |
@@ -101,6 +102,7 @@
 ## Sorting
 |  |
 | ------- |
+| [1859-sorting-the-sentence](https://github.com/dharmatej127/DSA/tree/master/1859-sorting-the-sentence) |
 | [3731-find-missing-elements](https://github.com/dharmatej127/DSA/tree/master/3731-find-missing-elements) |
 ## Matrix
 |  |
