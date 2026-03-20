@@ -172,4 +172,20 @@
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dharmatej127/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0796-rotate-string](https://github.com/dharmatej127/DSA/tree/master/0796-rotate-string) |
+## Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/dharmatej127/DSA/tree/master/0098-validate-binary-search-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/dharmatej127/DSA/tree/master/0098-validate-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/dharmatej127/DSA/tree/master/0098-validate-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/dharmatej127/DSA/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
