@@ -194,4 +194,8 @@
 | [0098-validate-binary-search-tree](https://github.com/dharmatej127/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/dharmatej127/DSA/tree/master/0450-delete-node-in-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/dharmatej127/DSA/tree/master/0701-insert-into-a-binary-search-tree) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/dharmatej127/DSA/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
