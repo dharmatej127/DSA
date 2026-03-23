@@ -24,6 +24,7 @@
 | [3131-find-the-integer-added-to-array-i](https://github.com/dharmatej127/DSA/tree/master/3131-find-the-integer-added-to-array-i) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/dharmatej127/DSA/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/dharmatej127/DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/dharmatej127/DSA/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3731-find-missing-elements](https://github.com/dharmatej127/DSA/tree/master/3731-find-missing-elements) |
 | [3745-maximize-expression-of-three-elements](https://github.com/dharmatej127/DSA/tree/master/3745-maximize-expression-of-three-elements) |
 ## Linked List
@@ -90,6 +91,7 @@
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/dharmatej127/DSA/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/dharmatej127/DSA/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/dharmatej127/DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/dharmatej127/DSA/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Hash Table
 |  |
 | ------- |
@@ -99,6 +101,7 @@
 | [0771-jewels-and-stones](https://github.com/dharmatej127/DSA/tree/master/0771-jewels-and-stones) |
 | [1512-number-of-good-pairs](https://github.com/dharmatej127/DSA/tree/master/1512-number-of-good-pairs) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/dharmatej127/DSA/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/dharmatej127/DSA/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3731-find-missing-elements](https://github.com/dharmatej127/DSA/tree/master/3731-find-missing-elements) |
 ## Stack
 |  |
@@ -146,6 +149,7 @@
 | [0169-majority-element](https://github.com/dharmatej127/DSA/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/dharmatej127/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [1512-number-of-good-pairs](https://github.com/dharmatej127/DSA/tree/master/1512-number-of-good-pairs) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/dharmatej127/DSA/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -212,4 +216,8 @@
 |  |
 | ------- |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/dharmatej127/DSA/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+## Number Theory
+|  |
+| ------- |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/dharmatej127/DSA/tree/master/3591-check-if-any-element-has-prime-frequency) |
 <!---LeetCode Topics End-->
