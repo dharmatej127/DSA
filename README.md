@@ -10,6 +10,7 @@
 | [0055-jump-game](https://github.com/dharmatej127/DSA/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/dharmatej127/DSA/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/dharmatej127/DSA/tree/master/0075-sort-colors) |
+| [0136-single-number](https://github.com/dharmatej127/DSA/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/dharmatej127/DSA/tree/master/0169-majority-element) |
 | [0303-range-sum-query-immutable](https://github.com/dharmatej127/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0682-baseball-game](https://github.com/dharmatej127/DSA/tree/master/0682-baseball-game) |
@@ -153,6 +154,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/dharmatej127/DSA/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/dharmatej127/DSA/tree/master/0191-number-of-1-bits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/dharmatej127/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/dharmatej127/DSA/tree/master/1486-xor-operation-in-an-array) |
