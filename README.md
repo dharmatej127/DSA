@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/dharmatej127/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0035-search-insert-position](https://github.com/dharmatej127/DSA/tree/master/0035-search-insert-position) |
 | [0051-n-queens](https://github.com/dharmatej127/DSA/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/dharmatej127/DSA/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/dharmatej127/DSA/tree/master/0066-plus-one) |
@@ -70,6 +71,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/dharmatej127/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0035-search-insert-position](https://github.com/dharmatej127/DSA/tree/master/0035-search-insert-position) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/dharmatej127/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Divide and Conquer
 |  |
