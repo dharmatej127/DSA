@@ -18,6 +18,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/dharmatej127/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/dharmatej127/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/dharmatej127/DSA/tree/master/0682-baseball-game) |
+| [0724-find-pivot-index](https://github.com/dharmatej127/DSA/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/dharmatej127/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1470-shuffle-the-array](https://github.com/dharmatej127/DSA/tree/master/1470-shuffle-the-array) |
 | [1512-number-of-good-pairs](https://github.com/dharmatej127/DSA/tree/master/1512-number-of-good-pairs) |
@@ -188,6 +189,7 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/dharmatej127/DSA/tree/master/0303-range-sum-query-immutable) |
+| [0724-find-pivot-index](https://github.com/dharmatej127/DSA/tree/master/0724-find-pivot-index) |
 ## String Matching
 |  |
 | ------- |
