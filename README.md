@@ -37,6 +37,7 @@
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/dharmatej127/DSA/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3731-find-missing-elements](https://github.com/dharmatej127/DSA/tree/master/3731-find-missing-elements) |
 | [3745-maximize-expression-of-three-elements](https://github.com/dharmatej127/DSA/tree/master/3745-maximize-expression-of-three-elements) |
+| [3875-construct-uniform-parity-array-i](https://github.com/dharmatej127/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 ## Linked List
 |  |
 | ------- |
@@ -107,6 +108,7 @@
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/dharmatej127/DSA/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/dharmatej127/DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/dharmatej127/DSA/tree/master/3591-check-if-any-element-has-prime-frequency) |
+| [3875-construct-uniform-parity-array-i](https://github.com/dharmatej127/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
 | ------- |
