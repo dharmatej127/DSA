@@ -21,6 +21,7 @@
 | [0724-find-pivot-index](https://github.com/dharmatej127/DSA/tree/master/0724-find-pivot-index) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/dharmatej127/DSA/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/dharmatej127/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0905-sort-array-by-parity](https://github.com/dharmatej127/DSA/tree/master/0905-sort-array-by-parity) |
 | [0908-smallest-range-i](https://github.com/dharmatej127/DSA/tree/master/0908-smallest-range-i) |
 | [1470-shuffle-the-array](https://github.com/dharmatej127/DSA/tree/master/1470-shuffle-the-array) |
 | [1512-number-of-good-pairs](https://github.com/dharmatej127/DSA/tree/master/1512-number-of-good-pairs) |
@@ -52,6 +53,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/dharmatej127/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0234-palindrome-linked-list](https://github.com/dharmatej127/DSA/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/dharmatej127/DSA/tree/master/0876-middle-of-the-linked-list) |
+| [0905-sort-array-by-parity](https://github.com/dharmatej127/DSA/tree/master/0905-sort-array-by-parity) |
 | [1768-merge-strings-alternately](https://github.com/dharmatej127/DSA/tree/master/1768-merge-strings-alternately) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/dharmatej127/DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## String
@@ -147,6 +149,7 @@
 | [0169-majority-element](https://github.com/dharmatej127/DSA/tree/master/0169-majority-element) |
 | [0628-maximum-product-of-three-numbers](https://github.com/dharmatej127/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/dharmatej127/DSA/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0905-sort-array-by-parity](https://github.com/dharmatej127/DSA/tree/master/0905-sort-array-by-parity) |
 | [1859-sorting-the-sentence](https://github.com/dharmatej127/DSA/tree/master/1859-sorting-the-sentence) |
 | [3731-find-missing-elements](https://github.com/dharmatej127/DSA/tree/master/3731-find-missing-elements) |
 | [3745-maximize-expression-of-three-elements](https://github.com/dharmatej127/DSA/tree/master/3745-maximize-expression-of-three-elements) |
