@@ -37,6 +37,7 @@
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/dharmatej127/DSA/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3731-find-missing-elements](https://github.com/dharmatej127/DSA/tree/master/3731-find-missing-elements) |
 | [3745-maximize-expression-of-three-elements](https://github.com/dharmatej127/DSA/tree/master/3745-maximize-expression-of-three-elements) |
+| [3866-first-unique-even-element](https://github.com/dharmatej127/DSA/tree/master/3866-first-unique-even-element) |
 | [3875-construct-uniform-parity-array-i](https://github.com/dharmatej127/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 ## Linked List
 |  |
@@ -120,6 +121,7 @@
 | [2744-find-maximum-number-of-string-pairs](https://github.com/dharmatej127/DSA/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/dharmatej127/DSA/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3731-find-missing-elements](https://github.com/dharmatej127/DSA/tree/master/3731-find-missing-elements) |
+| [3866-first-unique-even-element](https://github.com/dharmatej127/DSA/tree/master/3866-first-unique-even-element) |
 ## Stack
 |  |
 | ------- |
@@ -170,6 +172,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/dharmatej127/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [1512-number-of-good-pairs](https://github.com/dharmatej127/DSA/tree/master/1512-number-of-good-pairs) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/dharmatej127/DSA/tree/master/3591-check-if-any-element-has-prime-frequency) |
+| [3866-first-unique-even-element](https://github.com/dharmatej127/DSA/tree/master/3866-first-unique-even-element) |
 ## Bit Manipulation
 |  |
 | ------- |
