@@ -217,6 +217,7 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/dharmatej127/DSA/tree/master/0098-validate-binary-search-tree) |
+| [2685-count-the-number-of-complete-components](https://github.com/dharmatej127/DSA/tree/master/2685-count-the-number-of-complete-components) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -245,4 +246,16 @@
 |  |
 | ------- |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/dharmatej127/DSA/tree/master/3591-check-if-any-element-has-prime-frequency) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2685-count-the-number-of-complete-components](https://github.com/dharmatej127/DSA/tree/master/2685-count-the-number-of-complete-components) |
+## Union-Find
+|  |
+| ------- |
+| [2685-count-the-number-of-complete-components](https://github.com/dharmatej127/DSA/tree/master/2685-count-the-number-of-complete-components) |
+## Graph Theory
+|  |
+| ------- |
+| [2685-count-the-number-of-complete-components](https://github.com/dharmatej127/DSA/tree/master/2685-count-the-number-of-complete-components) |
 <!---LeetCode Topics End-->
