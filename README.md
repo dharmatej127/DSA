@@ -24,6 +24,7 @@
 | [0852-peak-index-in-a-mountain-array](https://github.com/dharmatej127/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0905-sort-array-by-parity](https://github.com/dharmatej127/DSA/tree/master/0905-sort-array-by-parity) |
 | [0908-smallest-range-i](https://github.com/dharmatej127/DSA/tree/master/0908-smallest-range-i) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/dharmatej127/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1470-shuffle-the-array](https://github.com/dharmatej127/DSA/tree/master/1470-shuffle-the-array) |
 | [1512-number-of-good-pairs](https://github.com/dharmatej127/DSA/tree/master/1512-number-of-good-pairs) |
 | [1672-richest-customer-wealth](https://github.com/dharmatej127/DSA/tree/master/1672-richest-customer-wealth) |
@@ -162,6 +163,7 @@
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/dharmatej127/DSA/tree/master/0463-island-perimeter) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/dharmatej127/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1672-richest-customer-wealth](https://github.com/dharmatej127/DSA/tree/master/1672-richest-customer-wealth) |
 ## Queue
 |  |
@@ -253,6 +255,7 @@
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/dharmatej127/DSA/tree/master/0463-island-perimeter) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/dharmatej127/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [2685-count-the-number-of-complete-components](https://github.com/dharmatej127/DSA/tree/master/2685-count-the-number-of-complete-components) |
 ## Union-Find
 |  |
