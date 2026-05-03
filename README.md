@@ -9,6 +9,7 @@
 | [0035-search-insert-position](https://github.com/dharmatej127/DSA/tree/master/0035-search-insert-position) |
 | [0051-n-queens](https://github.com/dharmatej127/DSA/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/dharmatej127/DSA/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/dharmatej127/DSA/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/dharmatej127/DSA/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/dharmatej127/DSA/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/dharmatej127/DSA/tree/master/0136-single-number) |
@@ -152,6 +153,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/dharmatej127/DSA/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/dharmatej127/DSA/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/dharmatej127/DSA/tree/master/0169-majority-element) |
 | [0628-maximum-product-of-three-numbers](https://github.com/dharmatej127/DSA/tree/master/0628-maximum-product-of-three-numbers) |
