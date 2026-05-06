@@ -28,6 +28,7 @@
 | [0905-sort-array-by-parity](https://github.com/dharmatej127/DSA/tree/master/0905-sort-array-by-parity) |
 | [0908-smallest-range-i](https://github.com/dharmatej127/DSA/tree/master/0908-smallest-range-i) |
 | [0994-rotting-oranges](https://github.com/dharmatej127/DSA/tree/master/0994-rotting-oranges) |
+| [1046-last-stone-weight](https://github.com/dharmatej127/DSA/tree/master/1046-last-stone-weight) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/dharmatej127/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1470-shuffle-the-array](https://github.com/dharmatej127/DSA/tree/master/1470-shuffle-the-array) |
 | [1512-number-of-good-pairs](https://github.com/dharmatej127/DSA/tree/master/1512-number-of-good-pairs) |
@@ -256,6 +257,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1046-last-stone-weight](https://github.com/dharmatej127/DSA/tree/master/1046-last-stone-weight) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/dharmatej127/DSA/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Number Theory
 |  |
