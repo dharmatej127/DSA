@@ -15,6 +15,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dharmatej127/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/dharmatej127/DSA/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/dharmatej127/DSA/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/dharmatej127/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0303-range-sum-query-immutable](https://github.com/dharmatej127/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0463-island-perimeter](https://github.com/dharmatej127/DSA/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/dharmatej127/DSA/tree/master/0485-max-consecutive-ones) |
@@ -96,6 +97,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/dharmatej127/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/dharmatej127/DSA/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/dharmatej127/DSA/tree/master/0191-number-of-1-bits) |
+| [0215-kth-largest-element-in-an-array](https://github.com/dharmatej127/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 ## Math
 |  |
 | ------- |
@@ -160,6 +162,7 @@
 | [0056-merge-intervals](https://github.com/dharmatej127/DSA/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/dharmatej127/DSA/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/dharmatej127/DSA/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/dharmatej127/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/dharmatej127/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/dharmatej127/DSA/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0905-sort-array-by-parity](https://github.com/dharmatej127/DSA/tree/master/0905-sort-array-by-parity) |
@@ -257,6 +260,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/dharmatej127/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [1046-last-stone-weight](https://github.com/dharmatej127/DSA/tree/master/1046-last-stone-weight) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/dharmatej127/DSA/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Number Theory
@@ -291,4 +295,8 @@
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/dharmatej127/DSA/tree/master/0739-daily-temperatures) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/dharmatej127/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
