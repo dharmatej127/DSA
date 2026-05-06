@@ -1,17 +1,14 @@
-class Solution(object):
-    def calPoints(self, operations):
-        """
-        :type operations: List[str]
-        :rtype: int
-        """
-        result=[]
-        for i in range(len(operations)):
-            if operations[i]=="+":
-                result.append(result[-1]+result[-2])
-            elif operations[i]=="D":
-                result.append(result[-1]*2)
-            elif operations[i]=="C":
-                result.pop()
+class Solution:
+    def calPoints(self, operations: List[str]) -> int:
+        score=[]
+        for i in operations:
+            if i=="D":
+                score.append(2*score[-1])
+            elif i=="C":
+                if len(score)>0:
+                    score.pop()
+            elif i=="+":
+                score.append((score[-2]+score[-1]))
             else:
-                result.append(int(operations[i]))
-        return sum(result)
+                score.append(int(i))
+        return sum(score)
