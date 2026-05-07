@@ -7,6 +7,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/dharmatej127/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/dharmatej127/DSA/tree/master/0035-search-insert-position) |
+| [0049-group-anagrams](https://github.com/dharmatej127/DSA/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/dharmatej127/DSA/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/dharmatej127/DSA/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/dharmatej127/DSA/tree/master/0056-merge-intervals) |
@@ -74,6 +75,7 @@
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dharmatej127/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/dharmatej127/DSA/tree/master/0032-longest-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/dharmatej127/DSA/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/dharmatej127/DSA/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/dharmatej127/DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/dharmatej127/DSA/tree/master/0151-reverse-words-in-a-string) |
@@ -129,6 +131,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/dharmatej127/DSA/tree/master/0049-group-anagrams) |
 | [0142-linked-list-cycle-ii](https://github.com/dharmatej127/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/dharmatej127/DSA/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/dharmatej127/DSA/tree/master/0387-first-unique-character-in-a-string) |
@@ -168,6 +171,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/dharmatej127/DSA/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/dharmatej127/DSA/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/dharmatej127/DSA/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/dharmatej127/DSA/tree/master/0169-majority-element) |
