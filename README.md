@@ -227,6 +227,7 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/dharmatej127/DSA/tree/master/0098-validate-binary-search-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/dharmatej127/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/dharmatej127/DSA/tree/master/0450-delete-node-in-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/dharmatej127/DSA/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Depth-First Search
@@ -235,18 +236,21 @@
 | [0098-validate-binary-search-tree](https://github.com/dharmatej127/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0207-course-schedule](https://github.com/dharmatej127/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/dharmatej127/DSA/tree/master/0210-course-schedule-ii) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/dharmatej127/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0463-island-perimeter](https://github.com/dharmatej127/DSA/tree/master/0463-island-perimeter) |
 | [2685-count-the-number-of-complete-components](https://github.com/dharmatej127/DSA/tree/master/2685-count-the-number-of-complete-components) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/dharmatej127/DSA/tree/master/0098-validate-binary-search-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/dharmatej127/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/dharmatej127/DSA/tree/master/0450-delete-node-in-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/dharmatej127/DSA/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/dharmatej127/DSA/tree/master/0098-validate-binary-search-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/dharmatej127/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/dharmatej127/DSA/tree/master/0450-delete-node-in-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/dharmatej127/DSA/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Database
