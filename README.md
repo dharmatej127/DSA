@@ -25,6 +25,7 @@
 | [0682-baseball-game](https://github.com/dharmatej127/DSA/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/dharmatej127/DSA/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/dharmatej127/DSA/tree/master/0739-daily-temperatures) |
+| [0746-min-cost-climbing-stairs](https://github.com/dharmatej127/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/dharmatej127/DSA/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/dharmatej127/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0905-sort-array-by-parity](https://github.com/dharmatej127/DSA/tree/master/0905-sort-array-by-parity) |
@@ -211,6 +212,7 @@
 | [0070-climbing-stairs](https://github.com/dharmatej127/DSA/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dharmatej127/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/dharmatej127/DSA/tree/master/0198-house-robber) |
+| [0746-min-cost-climbing-stairs](https://github.com/dharmatej127/DSA/tree/master/0746-min-cost-climbing-stairs) |
 ## Design
 |  |
 | ------- |
