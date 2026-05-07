@@ -48,6 +48,7 @@
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/dharmatej127/DSA/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/dharmatej127/DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/dharmatej127/DSA/tree/master/3591-check-if-any-element-has-prime-frequency) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/dharmatej127/DSA/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3731-find-missing-elements](https://github.com/dharmatej127/DSA/tree/master/3731-find-missing-elements) |
 | [3745-maximize-expression-of-three-elements](https://github.com/dharmatej127/DSA/tree/master/3745-maximize-expression-of-three-elements) |
 | [3866-first-unique-even-element](https://github.com/dharmatej127/DSA/tree/master/3866-first-unique-even-element) |
@@ -169,6 +170,7 @@
 | [2744-find-maximum-number-of-string-pairs](https://github.com/dharmatej127/DSA/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/dharmatej127/DSA/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/dharmatej127/DSA/tree/master/3498-reverse-degree-of-a-string) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/dharmatej127/DSA/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 ## Sorting
 |  |
 | ------- |
@@ -213,6 +215,7 @@
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/dharmatej127/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/dharmatej127/DSA/tree/master/1486-xor-operation-in-an-array) |
 | [2527-find-xor-beauty-of-array](https://github.com/dharmatej127/DSA/tree/master/2527-find-xor-beauty-of-array) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/dharmatej127/DSA/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
