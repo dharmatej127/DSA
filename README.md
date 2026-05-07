@@ -38,6 +38,7 @@
 | [1512-number-of-good-pairs](https://github.com/dharmatej127/DSA/tree/master/1512-number-of-good-pairs) |
 | [1672-richest-customer-wealth](https://github.com/dharmatej127/DSA/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/dharmatej127/DSA/tree/master/1929-concatenation-of-array) |
+| [1991-find-the-middle-index-in-array](https://github.com/dharmatej127/DSA/tree/master/1991-find-the-middle-index-in-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/dharmatej127/DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2233-maximum-product-after-k-increments](https://github.com/dharmatej127/DSA/tree/master/2233-maximum-product-after-k-increments) |
 | [2527-find-xor-beauty-of-array](https://github.com/dharmatej127/DSA/tree/master/2527-find-xor-beauty-of-array) |
@@ -238,6 +239,7 @@
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/dharmatej127/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/dharmatej127/DSA/tree/master/0724-find-pivot-index) |
+| [1991-find-the-middle-index-in-array](https://github.com/dharmatej127/DSA/tree/master/1991-find-the-middle-index-in-array) |
 ## String Matching
 |  |
 | ------- |
