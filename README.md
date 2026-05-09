@@ -35,6 +35,7 @@
 | [1046-last-stone-weight](https://github.com/dharmatej127/DSA/tree/master/1046-last-stone-weight) |
 | [1089-duplicate-zeros](https://github.com/dharmatej127/DSA/tree/master/1089-duplicate-zeros) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/dharmatej127/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1441-build-an-array-with-stack-operations](https://github.com/dharmatej127/DSA/tree/master/1441-build-an-array-with-stack-operations) |
 | [1470-shuffle-the-array](https://github.com/dharmatej127/DSA/tree/master/1470-shuffle-the-array) |
 | [1512-number-of-good-pairs](https://github.com/dharmatej127/DSA/tree/master/1512-number-of-good-pairs) |
 | [1672-richest-customer-wealth](https://github.com/dharmatej127/DSA/tree/master/1672-richest-customer-wealth) |
@@ -154,6 +155,7 @@
 | [0234-palindrome-linked-list](https://github.com/dharmatej127/DSA/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/dharmatej127/DSA/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/dharmatej127/DSA/tree/master/0739-daily-temperatures) |
+| [1441-build-an-array-with-stack-operations](https://github.com/dharmatej127/DSA/tree/master/1441-build-an-array-with-stack-operations) |
 ## Recursion
 |  |
 | ------- |
@@ -168,6 +170,7 @@
 | [0067-add-binary](https://github.com/dharmatej127/DSA/tree/master/0067-add-binary) |
 | [0657-robot-return-to-origin](https://github.com/dharmatej127/DSA/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/dharmatej127/DSA/tree/master/0682-baseball-game) |
+| [1441-build-an-array-with-stack-operations](https://github.com/dharmatej127/DSA/tree/master/1441-build-an-array-with-stack-operations) |
 | [1929-concatenation-of-array](https://github.com/dharmatej127/DSA/tree/master/1929-concatenation-of-array) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/dharmatej127/DSA/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/dharmatej127/DSA/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
