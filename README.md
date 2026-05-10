@@ -17,6 +17,7 @@
 | [0136-single-number](https://github.com/dharmatej127/DSA/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/dharmatej127/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/dharmatej127/DSA/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/dharmatej127/DSA/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/dharmatej127/DSA/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/dharmatej127/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0303-range-sum-query-immutable](https://github.com/dharmatej127/DSA/tree/master/0303-range-sum-query-immutable) |
@@ -70,6 +71,7 @@
 | [0125-valid-palindrome](https://github.com/dharmatej127/DSA/tree/master/0125-valid-palindrome) |
 | [0142-linked-list-cycle-ii](https://github.com/dharmatej127/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/dharmatej127/DSA/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/dharmatej127/DSA/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/dharmatej127/DSA/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/dharmatej127/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/dharmatej127/DSA/tree/master/0905-sort-array-by-parity) |
@@ -118,6 +120,7 @@
 | [0067-add-binary](https://github.com/dharmatej127/DSA/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/dharmatej127/DSA/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/dharmatej127/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0189-rotate-array](https://github.com/dharmatej127/DSA/tree/master/0189-rotate-array) |
 | [0504-base-7](https://github.com/dharmatej127/DSA/tree/master/0504-base-7) |
 | [0628-maximum-product-of-three-numbers](https://github.com/dharmatej127/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0908-smallest-range-i](https://github.com/dharmatej127/DSA/tree/master/0908-smallest-range-i) |
