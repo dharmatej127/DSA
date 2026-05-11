@@ -13,6 +13,7 @@
 | [0056-merge-intervals](https://github.com/dharmatej127/DSA/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/dharmatej127/DSA/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/dharmatej127/DSA/tree/master/0075-sort-colors) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/dharmatej127/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dharmatej127/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/dharmatej127/DSA/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/dharmatej127/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -110,6 +111,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/dharmatej127/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/dharmatej127/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0169-majority-element](https://github.com/dharmatej127/DSA/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/dharmatej127/DSA/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/dharmatej127/DSA/tree/master/0215-kth-largest-element-in-an-array) |
@@ -142,6 +144,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/dharmatej127/DSA/tree/master/0049-group-anagrams) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/dharmatej127/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0142-linked-list-cycle-ii](https://github.com/dharmatej127/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/dharmatej127/DSA/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/dharmatej127/DSA/tree/master/0387-first-unique-character-in-a-string) |
@@ -264,6 +267,7 @@
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/dharmatej127/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/dharmatej127/DSA/tree/master/0100-same-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/dharmatej127/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/dharmatej127/DSA/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/dharmatej127/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/dharmatej127/DSA/tree/master/0450-delete-node-in-a-bst) |
@@ -293,6 +297,7 @@
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/dharmatej127/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/dharmatej127/DSA/tree/master/0100-same-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/dharmatej127/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/dharmatej127/DSA/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/dharmatej127/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/dharmatej127/DSA/tree/master/0450-delete-node-in-a-bst) |
