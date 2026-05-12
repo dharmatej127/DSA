@@ -65,6 +65,7 @@
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/dharmatej127/DSA/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0142-linked-list-cycle-ii](https://github.com/dharmatej127/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/dharmatej127/DSA/tree/master/0234-palindrome-linked-list) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/dharmatej127/DSA/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/dharmatej127/DSA/tree/master/0876-middle-of-the-linked-list) |
 ## Two Pointers
 |  |
@@ -289,6 +290,7 @@
 | [0210-course-schedule-ii](https://github.com/dharmatej127/DSA/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/dharmatej127/DSA/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/dharmatej127/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/dharmatej127/DSA/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0463-island-perimeter](https://github.com/dharmatej127/DSA/tree/master/0463-island-perimeter) |
 | [2685-count-the-number-of-complete-components](https://github.com/dharmatej127/DSA/tree/master/2685-count-the-number-of-complete-components) |
 ## Binary Search Tree
@@ -373,4 +375,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/dharmatej127/DSA/tree/master/0070-climbing-stairs) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/dharmatej127/DSA/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 <!---LeetCode Topics End-->
