@@ -104,6 +104,7 @@
 | [1859-sorting-the-sentence](https://github.com/dharmatej127/DSA/tree/master/1859-sorting-the-sentence) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/dharmatej127/DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/dharmatej127/DSA/tree/master/2185-counting-words-with-a-given-prefix) |
+| [2315-count-asterisks](https://github.com/dharmatej127/DSA/tree/master/2315-count-asterisks) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/dharmatej127/DSA/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3340-check-balanced-string](https://github.com/dharmatej127/DSA/tree/master/3340-check-balanced-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/dharmatej127/DSA/tree/master/3498-reverse-degree-of-a-string) |
