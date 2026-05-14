@@ -35,6 +35,7 @@
 | [0852-peak-index-in-a-mountain-array](https://github.com/dharmatej127/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0905-sort-array-by-parity](https://github.com/dharmatej127/DSA/tree/master/0905-sort-array-by-parity) |
 | [0908-smallest-range-i](https://github.com/dharmatej127/DSA/tree/master/0908-smallest-range-i) |
+| [0918-maximum-sum-circular-subarray](https://github.com/dharmatej127/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [0994-rotting-oranges](https://github.com/dharmatej127/DSA/tree/master/0994-rotting-oranges) |
 | [1046-last-stone-weight](https://github.com/dharmatej127/DSA/tree/master/1046-last-stone-weight) |
 | [1089-duplicate-zeros](https://github.com/dharmatej127/DSA/tree/master/1089-duplicate-zeros) |
@@ -123,6 +124,7 @@
 | [0169-majority-element](https://github.com/dharmatej127/DSA/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/dharmatej127/DSA/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/dharmatej127/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0918-maximum-sum-circular-subarray](https://github.com/dharmatej127/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 ## Math
 |  |
 | ------- |
@@ -220,6 +222,7 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/dharmatej127/DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [0918-maximum-sum-circular-subarray](https://github.com/dharmatej127/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 ## Counting
 |  |
 | ------- |
@@ -249,6 +252,7 @@
 | [0198-house-robber](https://github.com/dharmatej127/DSA/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/dharmatej127/DSA/tree/master/0322-coin-change) |
 | [0746-min-cost-climbing-stairs](https://github.com/dharmatej127/DSA/tree/master/0746-min-cost-climbing-stairs) |
+| [0918-maximum-sum-circular-subarray](https://github.com/dharmatej127/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 ## Design
 |  |
 | ------- |
@@ -391,4 +395,8 @@
 |  |
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/dharmatej127/DSA/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/dharmatej127/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
