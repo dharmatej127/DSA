@@ -46,6 +46,7 @@
 | [1929-concatenation-of-array](https://github.com/dharmatej127/DSA/tree/master/1929-concatenation-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/dharmatej127/DSA/tree/master/1991-find-the-middle-index-in-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/dharmatej127/DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/dharmatej127/DSA/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2233-maximum-product-after-k-increments](https://github.com/dharmatej127/DSA/tree/master/2233-maximum-product-after-k-increments) |
 | [2527-find-xor-beauty-of-array](https://github.com/dharmatej127/DSA/tree/master/2527-find-xor-beauty-of-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/dharmatej127/DSA/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -102,6 +103,7 @@
 | [1768-merge-strings-alternately](https://github.com/dharmatej127/DSA/tree/master/1768-merge-strings-alternately) |
 | [1859-sorting-the-sentence](https://github.com/dharmatej127/DSA/tree/master/1859-sorting-the-sentence) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/dharmatej127/DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/dharmatej127/DSA/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/dharmatej127/DSA/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3340-check-balanced-string](https://github.com/dharmatej127/DSA/tree/master/3340-check-balanced-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/dharmatej127/DSA/tree/master/3498-reverse-degree-of-a-string) |
@@ -269,6 +271,7 @@
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dharmatej127/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0796-rotate-string](https://github.com/dharmatej127/DSA/tree/master/0796-rotate-string) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/dharmatej127/DSA/tree/master/2185-counting-words-with-a-given-prefix) |
 ## Tree
 |  |
 | ------- |
