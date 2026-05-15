@@ -144,6 +144,7 @@
 | [1486-xor-operation-in-an-array](https://github.com/dharmatej127/DSA/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/dharmatej127/DSA/tree/master/1512-number-of-good-pairs) |
 | [1551-minimum-operations-to-make-array-equal](https://github.com/dharmatej127/DSA/tree/master/1551-minimum-operations-to-make-array-equal) |
+| [1641-count-sorted-vowel-strings](https://github.com/dharmatej127/DSA/tree/master/1641-count-sorted-vowel-strings) |
 | [2469-convert-the-temperature](https://github.com/dharmatej127/DSA/tree/master/2469-convert-the-temperature) |
 | [2527-find-xor-beauty-of-array](https://github.com/dharmatej127/DSA/tree/master/2527-find-xor-beauty-of-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/dharmatej127/DSA/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -259,6 +260,7 @@
 | [0322-coin-change](https://github.com/dharmatej127/DSA/tree/master/0322-coin-change) |
 | [0746-min-cost-climbing-stairs](https://github.com/dharmatej127/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0918-maximum-sum-circular-subarray](https://github.com/dharmatej127/DSA/tree/master/0918-maximum-sum-circular-subarray) |
+| [1641-count-sorted-vowel-strings](https://github.com/dharmatej127/DSA/tree/master/1641-count-sorted-vowel-strings) |
 ## Design
 |  |
 | ------- |
@@ -412,4 +414,5 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/dharmatej127/DSA/tree/master/0062-unique-paths) |
+| [1641-count-sorted-vowel-strings](https://github.com/dharmatej127/DSA/tree/master/1641-count-sorted-vowel-strings) |
 <!---LeetCode Topics End-->
