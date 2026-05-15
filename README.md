@@ -7,6 +7,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/dharmatej127/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/dharmatej127/DSA/tree/master/0035-search-insert-position) |
+| [0045-jump-game-ii](https://github.com/dharmatej127/DSA/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/dharmatej127/DSA/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/dharmatej127/DSA/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/dharmatej127/DSA/tree/master/0055-jump-game) |
@@ -252,6 +253,7 @@
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/dharmatej127/DSA/tree/master/0032-longest-valid-parentheses) |
+| [0045-jump-game-ii](https://github.com/dharmatej127/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/dharmatej127/DSA/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/dharmatej127/DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/dharmatej127/DSA/tree/master/0070-climbing-stairs) |
@@ -271,6 +273,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/dharmatej127/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/dharmatej127/DSA/tree/master/0055-jump-game) |
 | [1323-maximum-69-number](https://github.com/dharmatej127/DSA/tree/master/1323-maximum-69-number) |
 | [2233-maximum-product-after-k-increments](https://github.com/dharmatej127/DSA/tree/master/2233-maximum-product-after-k-increments) |
