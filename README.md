@@ -136,6 +136,7 @@
 | [0096-unique-binary-search-trees](https://github.com/dharmatej127/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/dharmatej127/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/dharmatej127/DSA/tree/master/0189-rotate-array) |
+| [0343-integer-break](https://github.com/dharmatej127/DSA/tree/master/0343-integer-break) |
 | [0504-base-7](https://github.com/dharmatej127/DSA/tree/master/0504-base-7) |
 | [0628-maximum-product-of-three-numbers](https://github.com/dharmatej127/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0908-smallest-range-i](https://github.com/dharmatej127/DSA/tree/master/0908-smallest-range-i) |
@@ -258,6 +259,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dharmatej127/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/dharmatej127/DSA/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/dharmatej127/DSA/tree/master/0322-coin-change) |
+| [0343-integer-break](https://github.com/dharmatej127/DSA/tree/master/0343-integer-break) |
 | [0746-min-cost-climbing-stairs](https://github.com/dharmatej127/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0918-maximum-sum-circular-subarray](https://github.com/dharmatej127/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [1641-count-sorted-vowel-strings](https://github.com/dharmatej127/DSA/tree/master/1641-count-sorted-vowel-strings) |
