@@ -48,6 +48,7 @@
 | [1470-shuffle-the-array](https://github.com/dharmatej127/DSA/tree/master/1470-shuffle-the-array) |
 | [1512-number-of-good-pairs](https://github.com/dharmatej127/DSA/tree/master/1512-number-of-good-pairs) |
 | [1672-richest-customer-wealth](https://github.com/dharmatej127/DSA/tree/master/1672-richest-customer-wealth) |
+| [1920-build-array-from-permutation](https://github.com/dharmatej127/DSA/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/dharmatej127/DSA/tree/master/1929-concatenation-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/dharmatej127/DSA/tree/master/1991-find-the-middle-index-in-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/dharmatej127/DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -204,6 +205,7 @@
 | [0657-robot-return-to-origin](https://github.com/dharmatej127/DSA/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/dharmatej127/DSA/tree/master/0682-baseball-game) |
 | [1441-build-an-array-with-stack-operations](https://github.com/dharmatej127/DSA/tree/master/1441-build-an-array-with-stack-operations) |
+| [1920-build-array-from-permutation](https://github.com/dharmatej127/DSA/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/dharmatej127/DSA/tree/master/1929-concatenation-of-array) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/dharmatej127/DSA/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/dharmatej127/DSA/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
