@@ -28,6 +28,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/dharmatej127/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0303-range-sum-query-immutable](https://github.com/dharmatej127/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0322-coin-change](https://github.com/dharmatej127/DSA/tree/master/0322-coin-change) |
+| [0334-increasing-triplet-subsequence](https://github.com/dharmatej127/DSA/tree/master/0334-increasing-triplet-subsequence) |
 | [0463-island-perimeter](https://github.com/dharmatej127/DSA/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/dharmatej127/DSA/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/dharmatej127/DSA/tree/master/0540-single-element-in-a-sorted-array) |
@@ -299,6 +300,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/dharmatej127/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/dharmatej127/DSA/tree/master/0134-gas-station) |
 | [0316-remove-duplicate-letters](https://github.com/dharmatej127/DSA/tree/master/0316-remove-duplicate-letters) |
+| [0334-increasing-triplet-subsequence](https://github.com/dharmatej127/DSA/tree/master/0334-increasing-triplet-subsequence) |
 | [0397-integer-replacement](https://github.com/dharmatej127/DSA/tree/master/0397-integer-replacement) |
 | [0402-remove-k-digits](https://github.com/dharmatej127/DSA/tree/master/0402-remove-k-digits) |
 | [0649-dota2-senate](https://github.com/dharmatej127/DSA/tree/master/0649-dota2-senate) |
