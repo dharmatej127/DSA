@@ -260,6 +260,7 @@
 | [0137-single-number-ii](https://github.com/dharmatej127/DSA/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/dharmatej127/DSA/tree/master/0191-number-of-1-bits) |
 | [0389-find-the-difference](https://github.com/dharmatej127/DSA/tree/master/0389-find-the-difference) |
+| [0397-integer-replacement](https://github.com/dharmatej127/DSA/tree/master/0397-integer-replacement) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/dharmatej127/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/dharmatej127/DSA/tree/master/1486-xor-operation-in-an-array) |
 | [2527-find-xor-beauty-of-array](https://github.com/dharmatej127/DSA/tree/master/2527-find-xor-beauty-of-array) |
@@ -279,6 +280,7 @@
 | [0198-house-robber](https://github.com/dharmatej127/DSA/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/dharmatej127/DSA/tree/master/0322-coin-change) |
 | [0343-integer-break](https://github.com/dharmatej127/DSA/tree/master/0343-integer-break) |
+| [0397-integer-replacement](https://github.com/dharmatej127/DSA/tree/master/0397-integer-replacement) |
 | [0746-min-cost-climbing-stairs](https://github.com/dharmatej127/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0918-maximum-sum-circular-subarray](https://github.com/dharmatej127/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [1641-count-sorted-vowel-strings](https://github.com/dharmatej127/DSA/tree/master/1641-count-sorted-vowel-strings) |
@@ -295,6 +297,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/dharmatej127/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/dharmatej127/DSA/tree/master/0134-gas-station) |
 | [0316-remove-duplicate-letters](https://github.com/dharmatej127/DSA/tree/master/0316-remove-duplicate-letters) |
+| [0397-integer-replacement](https://github.com/dharmatej127/DSA/tree/master/0397-integer-replacement) |
 | [0402-remove-k-digits](https://github.com/dharmatej127/DSA/tree/master/0402-remove-k-digits) |
 | [0649-dota2-senate](https://github.com/dharmatej127/DSA/tree/master/0649-dota2-senate) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/dharmatej127/DSA/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
@@ -433,6 +436,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/dharmatej127/DSA/tree/master/0070-climbing-stairs) |
+| [0397-integer-replacement](https://github.com/dharmatej127/DSA/tree/master/0397-integer-replacement) |
 ## Doubly-Linked List
 |  |
 | ------- |
