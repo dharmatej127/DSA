@@ -33,6 +33,7 @@
 | [0485-max-consecutive-ones](https://github.com/dharmatej127/DSA/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/dharmatej127/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/dharmatej127/DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [0646-maximum-length-of-pair-chain](https://github.com/dharmatej127/DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [0682-baseball-game](https://github.com/dharmatej127/DSA/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/dharmatej127/DSA/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/dharmatej127/DSA/tree/master/0739-daily-temperatures) |
@@ -229,6 +230,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/dharmatej127/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0389-find-the-difference](https://github.com/dharmatej127/DSA/tree/master/0389-find-the-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/dharmatej127/DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [0646-maximum-length-of-pair-chain](https://github.com/dharmatej127/DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/dharmatej127/DSA/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0905-sort-array-by-parity](https://github.com/dharmatej127/DSA/tree/master/0905-sort-array-by-parity) |
 | [1859-sorting-the-sentence](https://github.com/dharmatej127/DSA/tree/master/1859-sorting-the-sentence) |
@@ -284,6 +286,7 @@
 | [0322-coin-change](https://github.com/dharmatej127/DSA/tree/master/0322-coin-change) |
 | [0343-integer-break](https://github.com/dharmatej127/DSA/tree/master/0343-integer-break) |
 | [0397-integer-replacement](https://github.com/dharmatej127/DSA/tree/master/0397-integer-replacement) |
+| [0646-maximum-length-of-pair-chain](https://github.com/dharmatej127/DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [0746-min-cost-climbing-stairs](https://github.com/dharmatej127/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0918-maximum-sum-circular-subarray](https://github.com/dharmatej127/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [1641-count-sorted-vowel-strings](https://github.com/dharmatej127/DSA/tree/master/1641-count-sorted-vowel-strings) |
@@ -303,6 +306,7 @@
 | [0334-increasing-triplet-subsequence](https://github.com/dharmatej127/DSA/tree/master/0334-increasing-triplet-subsequence) |
 | [0397-integer-replacement](https://github.com/dharmatej127/DSA/tree/master/0397-integer-replacement) |
 | [0402-remove-k-digits](https://github.com/dharmatej127/DSA/tree/master/0402-remove-k-digits) |
+| [0646-maximum-length-of-pair-chain](https://github.com/dharmatej127/DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [0649-dota2-senate](https://github.com/dharmatej127/DSA/tree/master/0649-dota2-senate) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/dharmatej127/DSA/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/dharmatej127/DSA/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
