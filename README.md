@@ -63,6 +63,7 @@
 | [2233-maximum-product-after-k-increments](https://github.com/dharmatej127/DSA/tree/master/2233-maximum-product-after-k-increments) |
 | [2527-find-xor-beauty-of-array](https://github.com/dharmatej127/DSA/tree/master/2527-find-xor-beauty-of-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/dharmatej127/DSA/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/dharmatej127/DSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/dharmatej127/DSA/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/dharmatej127/DSA/tree/master/3131-find-the-integer-added-to-array-i) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/dharmatej127/DSA/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
@@ -186,6 +187,7 @@
 | [0771-jewels-and-stones](https://github.com/dharmatej127/DSA/tree/master/0771-jewels-and-stones) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/dharmatej127/DSA/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1512-number-of-good-pairs](https://github.com/dharmatej127/DSA/tree/master/1512-number-of-good-pairs) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/dharmatej127/DSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/dharmatej127/DSA/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/dharmatej127/DSA/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3731-find-missing-elements](https://github.com/dharmatej127/DSA/tree/master/3731-find-missing-elements) |
@@ -277,6 +279,7 @@
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/dharmatej127/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/dharmatej127/DSA/tree/master/1486-xor-operation-in-an-array) |
 | [2527-find-xor-beauty-of-array](https://github.com/dharmatej127/DSA/tree/master/2527-find-xor-beauty-of-array) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/dharmatej127/DSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/dharmatej127/DSA/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 ## Dynamic Programming
 |  |
