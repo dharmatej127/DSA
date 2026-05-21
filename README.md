@@ -120,6 +120,7 @@
 | [0771-jewels-and-stones](https://github.com/dharmatej127/DSA/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/dharmatej127/DSA/tree/master/0796-rotate-string) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/dharmatej127/DSA/tree/master/1247-minimum-swaps-to-make-strings-equal) |
+| [1328-break-a-palindrome](https://github.com/dharmatej127/DSA/tree/master/1328-break-a-palindrome) |
 | [1768-merge-strings-alternately](https://github.com/dharmatej127/DSA/tree/master/1768-merge-strings-alternately) |
 | [1859-sorting-the-sentence](https://github.com/dharmatej127/DSA/tree/master/1859-sorting-the-sentence) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/dharmatej127/DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -327,6 +328,7 @@
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/dharmatej127/DSA/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/dharmatej127/DSA/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1323-maximum-69-number](https://github.com/dharmatej127/DSA/tree/master/1323-maximum-69-number) |
+| [1328-break-a-palindrome](https://github.com/dharmatej127/DSA/tree/master/1328-break-a-palindrome) |
 | [2233-maximum-product-after-k-increments](https://github.com/dharmatej127/DSA/tree/master/2233-maximum-product-after-k-increments) |
 | [3745-maximize-expression-of-three-elements](https://github.com/dharmatej127/DSA/tree/master/3745-maximize-expression-of-three-elements) |
 ## Prefix Sum
