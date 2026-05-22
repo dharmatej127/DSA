@@ -44,6 +44,7 @@
 | [0739-daily-temperatures](https://github.com/dharmatej127/DSA/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/dharmatej127/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/dharmatej127/DSA/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0769-max-chunks-to-make-sorted](https://github.com/dharmatej127/DSA/tree/master/0769-max-chunks-to-make-sorted) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/dharmatej127/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0905-sort-array-by-parity](https://github.com/dharmatej127/DSA/tree/master/0905-sort-array-by-parity) |
 | [0908-smallest-range-i](https://github.com/dharmatej127/DSA/tree/master/0908-smallest-range-i) |
@@ -210,6 +211,7 @@
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/dharmatej127/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0682-baseball-game](https://github.com/dharmatej127/DSA/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/dharmatej127/DSA/tree/master/0739-daily-temperatures) |
+| [0769-max-chunks-to-make-sorted](https://github.com/dharmatej127/DSA/tree/master/0769-max-chunks-to-make-sorted) |
 | [1441-build-an-array-with-stack-operations](https://github.com/dharmatej127/DSA/tree/master/1441-build-an-array-with-stack-operations) |
 ## Recursion
 |  |
@@ -247,6 +249,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/dharmatej127/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/dharmatej127/DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/dharmatej127/DSA/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0769-max-chunks-to-make-sorted](https://github.com/dharmatej127/DSA/tree/master/0769-max-chunks-to-make-sorted) |
 | [0905-sort-array-by-parity](https://github.com/dharmatej127/DSA/tree/master/0905-sort-array-by-parity) |
 | [1859-sorting-the-sentence](https://github.com/dharmatej127/DSA/tree/master/1859-sorting-the-sentence) |
 | [3731-find-missing-elements](https://github.com/dharmatej127/DSA/tree/master/3731-find-missing-elements) |
@@ -333,6 +336,7 @@
 | [0649-dota2-senate](https://github.com/dharmatej127/DSA/tree/master/0649-dota2-senate) |
 | [0738-monotone-increasing-digits](https://github.com/dharmatej127/DSA/tree/master/0738-monotone-increasing-digits) |
 | [0765-couples-holding-hands](https://github.com/dharmatej127/DSA/tree/master/0765-couples-holding-hands) |
+| [0769-max-chunks-to-make-sorted](https://github.com/dharmatej127/DSA/tree/master/0769-max-chunks-to-make-sorted) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/dharmatej127/DSA/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/dharmatej127/DSA/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1323-maximum-69-number](https://github.com/dharmatej127/DSA/tree/master/1323-maximum-69-number) |
@@ -469,6 +473,7 @@
 | [0402-remove-k-digits](https://github.com/dharmatej127/DSA/tree/master/0402-remove-k-digits) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/dharmatej127/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0739-daily-temperatures](https://github.com/dharmatej127/DSA/tree/master/0739-daily-temperatures) |
+| [0769-max-chunks-to-make-sorted](https://github.com/dharmatej127/DSA/tree/master/0769-max-chunks-to-make-sorted) |
 ## Quickselect
 |  |
 | ------- |
