@@ -88,6 +88,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/dharmatej127/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/dharmatej127/DSA/tree/master/0234-palindrome-linked-list) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/dharmatej127/DSA/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [0707-design-linked-list](https://github.com/dharmatej127/DSA/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/dharmatej127/DSA/tree/master/0876-middle-of-the-linked-list) |
 ## Two Pointers
 |  |
@@ -322,6 +323,7 @@
 | ------- |
 | [0155-min-stack](https://github.com/dharmatej127/DSA/tree/master/0155-min-stack) |
 | [0303-range-sum-query-immutable](https://github.com/dharmatej127/DSA/tree/master/0303-range-sum-query-immutable) |
+| [0707-design-linked-list](https://github.com/dharmatej127/DSA/tree/master/0707-design-linked-list) |
 ## Greedy
 |  |
 | ------- |
