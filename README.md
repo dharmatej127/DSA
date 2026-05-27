@@ -122,6 +122,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/dharmatej127/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/dharmatej127/DSA/tree/master/0389-find-the-difference) |
 | [0402-remove-k-digits](https://github.com/dharmatej127/DSA/tree/master/0402-remove-k-digits) |
+| [0412-fizz-buzz](https://github.com/dharmatej127/DSA/tree/master/0412-fizz-buzz) |
 | [0504-base-7](https://github.com/dharmatej127/DSA/tree/master/0504-base-7) |
 | [0649-dota2-senate](https://github.com/dharmatej127/DSA/tree/master/0649-dota2-senate) |
 | [0657-robot-return-to-origin](https://github.com/dharmatej127/DSA/tree/master/0657-robot-return-to-origin) |
@@ -167,6 +168,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/dharmatej127/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/dharmatej127/DSA/tree/master/0189-rotate-array) |
 | [0343-integer-break](https://github.com/dharmatej127/DSA/tree/master/0343-integer-break) |
+| [0412-fizz-buzz](https://github.com/dharmatej127/DSA/tree/master/0412-fizz-buzz) |
 | [0504-base-7](https://github.com/dharmatej127/DSA/tree/master/0504-base-7) |
 | [0628-maximum-product-of-three-numbers](https://github.com/dharmatej127/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0738-monotone-increasing-digits](https://github.com/dharmatej127/DSA/tree/master/0738-monotone-increasing-digits) |
@@ -233,6 +235,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/dharmatej127/DSA/tree/master/0067-add-binary) |
+| [0412-fizz-buzz](https://github.com/dharmatej127/DSA/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/dharmatej127/DSA/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/dharmatej127/DSA/tree/master/0682-baseball-game) |
 | [1441-build-an-array-with-stack-operations](https://github.com/dharmatej127/DSA/tree/master/1441-build-an-array-with-stack-operations) |
