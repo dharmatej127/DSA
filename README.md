@@ -25,6 +25,7 @@
 | [0169-majority-element](https://github.com/dharmatej127/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/dharmatej127/DSA/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/dharmatej127/DSA/tree/master/0198-house-robber) |
+| [0209-minimum-size-subarray-sum](https://github.com/dharmatej127/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/dharmatej127/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0303-range-sum-query-immutable](https://github.com/dharmatej127/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0322-coin-change](https://github.com/dharmatej127/DSA/tree/master/0322-coin-change) |
@@ -144,6 +145,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/dharmatej127/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/dharmatej127/DSA/tree/master/0035-search-insert-position) |
+| [0209-minimum-size-subarray-sum](https://github.com/dharmatej127/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0410-split-array-largest-sum](https://github.com/dharmatej127/DSA/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/dharmatej127/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/dharmatej127/DSA/tree/master/0611-valid-triangle-number) |
@@ -361,6 +363,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/dharmatej127/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/dharmatej127/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0410-split-array-largest-sum](https://github.com/dharmatej127/DSA/tree/master/0410-split-array-largest-sum) |
 | [0724-find-pivot-index](https://github.com/dharmatej127/DSA/tree/master/0724-find-pivot-index) |
@@ -511,4 +514,8 @@
 | ------- |
 | [0062-unique-paths](https://github.com/dharmatej127/DSA/tree/master/0062-unique-paths) |
 | [1641-count-sorted-vowel-strings](https://github.com/dharmatej127/DSA/tree/master/1641-count-sorted-vowel-strings) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/dharmatej127/DSA/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
