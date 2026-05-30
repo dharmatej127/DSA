@@ -163,6 +163,7 @@
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/dharmatej127/DSA/tree/master/0029-divide-two-integers) |
 | [0062-unique-paths](https://github.com/dharmatej127/DSA/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/dharmatej127/DSA/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/dharmatej127/DSA/tree/master/0067-add-binary) |
@@ -293,6 +294,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/dharmatej127/DSA/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/dharmatej127/DSA/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/dharmatej127/DSA/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/dharmatej127/DSA/tree/master/0137-single-number-ii) |
