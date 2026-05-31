@@ -80,6 +80,7 @@
 | [3745-maximize-expression-of-three-elements](https://github.com/dharmatej127/DSA/tree/master/3745-maximize-expression-of-three-elements) |
 | [3866-first-unique-even-element](https://github.com/dharmatej127/DSA/tree/master/3866-first-unique-even-element) |
 | [3875-construct-uniform-parity-array-i](https://github.com/dharmatej127/DSA/tree/master/3875-construct-uniform-parity-array-i) |
+| [3925-concatenate-array-with-reverse](https://github.com/dharmatej127/DSA/tree/master/3925-concatenate-array-with-reverse) |
 ## Linked List
 |  |
 | ------- |
@@ -249,6 +250,7 @@
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/dharmatej127/DSA/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/dharmatej127/DSA/tree/master/3498-reverse-degree-of-a-string) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/dharmatej127/DSA/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
+| [3925-concatenate-array-with-reverse](https://github.com/dharmatej127/DSA/tree/master/3925-concatenate-array-with-reverse) |
 ## Sorting
 |  |
 | ------- |
