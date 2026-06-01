@@ -139,6 +139,7 @@
 | [2299-strong-password-checker-ii](https://github.com/dharmatej127/DSA/tree/master/2299-strong-password-checker-ii) |
 | [2315-count-asterisks](https://github.com/dharmatej127/DSA/tree/master/2315-count-asterisks) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/dharmatej127/DSA/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [3174-clear-digits](https://github.com/dharmatej127/DSA/tree/master/3174-clear-digits) |
 | [3340-check-balanced-string](https://github.com/dharmatej127/DSA/tree/master/3340-check-balanced-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/dharmatej127/DSA/tree/master/3498-reverse-degree-of-a-string) |
 ## Binary Search
@@ -227,6 +228,7 @@
 | [0739-daily-temperatures](https://github.com/dharmatej127/DSA/tree/master/0739-daily-temperatures) |
 | [0769-max-chunks-to-make-sorted](https://github.com/dharmatej127/DSA/tree/master/0769-max-chunks-to-make-sorted) |
 | [1441-build-an-array-with-stack-operations](https://github.com/dharmatej127/DSA/tree/master/1441-build-an-array-with-stack-operations) |
+| [3174-clear-digits](https://github.com/dharmatej127/DSA/tree/master/3174-clear-digits) |
 ## Recursion
 |  |
 | ------- |
@@ -247,6 +249,7 @@
 | [1920-build-array-from-permutation](https://github.com/dharmatej127/DSA/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/dharmatej127/DSA/tree/master/1929-concatenation-of-array) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/dharmatej127/DSA/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [3174-clear-digits](https://github.com/dharmatej127/DSA/tree/master/3174-clear-digits) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/dharmatej127/DSA/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/dharmatej127/DSA/tree/master/3498-reverse-degree-of-a-string) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/dharmatej127/DSA/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
