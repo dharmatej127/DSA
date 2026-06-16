@@ -128,6 +128,7 @@
 | [0504-base-7](https://github.com/dharmatej127/DSA/tree/master/0504-base-7) |
 | [0649-dota2-senate](https://github.com/dharmatej127/DSA/tree/master/0649-dota2-senate) |
 | [0657-robot-return-to-origin](https://github.com/dharmatej127/DSA/tree/master/0657-robot-return-to-origin) |
+| [0709-to-lower-case](https://github.com/dharmatej127/DSA/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/dharmatej127/DSA/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/dharmatej127/DSA/tree/master/0796-rotate-string) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/dharmatej127/DSA/tree/master/1247-minimum-swaps-to-make-strings-equal) |
