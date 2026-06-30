@@ -119,6 +119,7 @@
 | [0032-longest-valid-parentheses](https://github.com/dharmatej127/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/dharmatej127/DSA/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/dharmatej127/DSA/tree/master/0067-add-binary) |
+| [0091-decode-ways](https://github.com/dharmatej127/DSA/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/dharmatej127/DSA/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/dharmatej127/DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/dharmatej127/DSA/tree/master/0151-reverse-words-in-a-string) |
@@ -326,6 +327,7 @@
 | [0055-jump-game](https://github.com/dharmatej127/DSA/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/dharmatej127/DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/dharmatej127/DSA/tree/master/0070-climbing-stairs) |
+| [0091-decode-ways](https://github.com/dharmatej127/DSA/tree/master/0091-decode-ways) |
 | [0096-unique-binary-search-trees](https://github.com/dharmatej127/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0115-distinct-subsequences](https://github.com/dharmatej127/DSA/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dharmatej127/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
