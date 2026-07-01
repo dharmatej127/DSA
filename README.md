@@ -50,6 +50,7 @@
 | [0747-largest-number-at-least-twice-of-others](https://github.com/dharmatej127/DSA/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0769-max-chunks-to-make-sorted](https://github.com/dharmatej127/DSA/tree/master/0769-max-chunks-to-make-sorted) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/dharmatej127/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0875-koko-eating-bananas](https://github.com/dharmatej127/DSA/tree/master/0875-koko-eating-bananas) |
 | [0905-sort-array-by-parity](https://github.com/dharmatej127/DSA/tree/master/0905-sort-array-by-parity) |
 | [0908-smallest-range-i](https://github.com/dharmatej127/DSA/tree/master/0908-smallest-range-i) |
 | [0918-maximum-sum-circular-subarray](https://github.com/dharmatej127/DSA/tree/master/0918-maximum-sum-circular-subarray) |
@@ -157,6 +158,7 @@
 | [0611-valid-triangle-number](https://github.com/dharmatej127/DSA/tree/master/0611-valid-triangle-number) |
 | [0704-binary-search](https://github.com/dharmatej127/DSA/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/dharmatej127/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0875-koko-eating-bananas](https://github.com/dharmatej127/DSA/tree/master/0875-koko-eating-bananas) |
 ## Divide and Conquer
 |  |
 | ------- |
