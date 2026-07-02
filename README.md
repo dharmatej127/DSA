@@ -64,6 +64,7 @@
 | [1470-shuffle-the-array](https://github.com/dharmatej127/DSA/tree/master/1470-shuffle-the-array) |
 | [1512-number-of-good-pairs](https://github.com/dharmatej127/DSA/tree/master/1512-number-of-good-pairs) |
 | [1672-richest-customer-wealth](https://github.com/dharmatej127/DSA/tree/master/1672-richest-customer-wealth) |
+| [1673-find-the-most-competitive-subsequence](https://github.com/dharmatej127/DSA/tree/master/1673-find-the-most-competitive-subsequence) |
 | [1920-build-array-from-permutation](https://github.com/dharmatej127/DSA/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/dharmatej127/DSA/tree/master/1929-concatenation-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/dharmatej127/DSA/tree/master/1991-find-the-middle-index-in-array) |
@@ -238,6 +239,7 @@
 | [0739-daily-temperatures](https://github.com/dharmatej127/DSA/tree/master/0739-daily-temperatures) |
 | [0769-max-chunks-to-make-sorted](https://github.com/dharmatej127/DSA/tree/master/0769-max-chunks-to-make-sorted) |
 | [1441-build-an-array-with-stack-operations](https://github.com/dharmatej127/DSA/tree/master/1441-build-an-array-with-stack-operations) |
+| [1673-find-the-most-competitive-subsequence](https://github.com/dharmatej127/DSA/tree/master/1673-find-the-most-competitive-subsequence) |
 | [3174-clear-digits](https://github.com/dharmatej127/DSA/tree/master/3174-clear-digits) |
 ## Recursion
 |  |
@@ -378,6 +380,7 @@
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/dharmatej127/DSA/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1323-maximum-69-number](https://github.com/dharmatej127/DSA/tree/master/1323-maximum-69-number) |
 | [1328-break-a-palindrome](https://github.com/dharmatej127/DSA/tree/master/1328-break-a-palindrome) |
+| [1673-find-the-most-competitive-subsequence](https://github.com/dharmatej127/DSA/tree/master/1673-find-the-most-competitive-subsequence) |
 | [2233-maximum-product-after-k-increments](https://github.com/dharmatej127/DSA/tree/master/2233-maximum-product-after-k-increments) |
 | [3745-maximize-expression-of-three-elements](https://github.com/dharmatej127/DSA/tree/master/3745-maximize-expression-of-three-elements) |
 ## Prefix Sum
@@ -514,6 +517,7 @@
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/dharmatej127/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0739-daily-temperatures](https://github.com/dharmatej127/DSA/tree/master/0739-daily-temperatures) |
 | [0769-max-chunks-to-make-sorted](https://github.com/dharmatej127/DSA/tree/master/0769-max-chunks-to-make-sorted) |
+| [1673-find-the-most-competitive-subsequence](https://github.com/dharmatej127/DSA/tree/master/1673-find-the-most-competitive-subsequence) |
 ## Quickselect
 |  |
 | ------- |
