@@ -121,6 +121,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dharmatej127/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/dharmatej127/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/dharmatej127/DSA/tree/master/0049-group-anagrams) |
+| [0065-valid-number](https://github.com/dharmatej127/DSA/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/dharmatej127/DSA/tree/master/0067-add-binary) |
 | [0091-decode-ways](https://github.com/dharmatej127/DSA/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/dharmatej127/DSA/tree/master/0115-distinct-subsequences) |
