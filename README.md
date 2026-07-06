@@ -25,6 +25,7 @@
 | [0169-majority-element](https://github.com/dharmatej127/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/dharmatej127/DSA/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/dharmatej127/DSA/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/dharmatej127/DSA/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/dharmatej127/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/dharmatej127/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0303-range-sum-query-immutable](https://github.com/dharmatej127/DSA/tree/master/0303-range-sum-query-immutable) |
@@ -292,6 +293,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/dharmatej127/DSA/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/dharmatej127/DSA/tree/master/0463-island-perimeter) |
 | [0994-rotting-oranges](https://github.com/dharmatej127/DSA/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/dharmatej127/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -423,6 +425,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/dharmatej127/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/dharmatej127/DSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/dharmatej127/DSA/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0200-number-of-islands](https://github.com/dharmatej127/DSA/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/dharmatej127/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/dharmatej127/DSA/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/dharmatej127/DSA/tree/master/0226-invert-binary-tree) |
@@ -484,6 +487,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/dharmatej127/DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/dharmatej127/DSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/dharmatej127/DSA/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0200-number-of-islands](https://github.com/dharmatej127/DSA/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/dharmatej127/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/dharmatej127/DSA/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/dharmatej127/DSA/tree/master/0226-invert-binary-tree) |
@@ -497,6 +501,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/dharmatej127/DSA/tree/master/0200-number-of-islands) |
 | [0765-couples-holding-hands](https://github.com/dharmatej127/DSA/tree/master/0765-couples-holding-hands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/dharmatej127/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/dharmatej127/DSA/tree/master/2685-count-the-number-of-complete-components) |
