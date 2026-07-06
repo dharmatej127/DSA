@@ -430,6 +430,7 @@
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/dharmatej127/DSA/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0463-island-perimeter](https://github.com/dharmatej127/DSA/tree/master/0463-island-perimeter) |
 | [0765-couples-holding-hands](https://github.com/dharmatej127/DSA/tree/master/0765-couples-holding-hands) |
+| [1971-find-if-path-exists-in-graph](https://github.com/dharmatej127/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/dharmatej127/DSA/tree/master/2685-count-the-number-of-complete-components) |
 ## Binary Search Tree
 |  |
@@ -491,11 +492,13 @@
 | [0765-couples-holding-hands](https://github.com/dharmatej127/DSA/tree/master/0765-couples-holding-hands) |
 | [0994-rotting-oranges](https://github.com/dharmatej127/DSA/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/dharmatej127/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1971-find-if-path-exists-in-graph](https://github.com/dharmatej127/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/dharmatej127/DSA/tree/master/2685-count-the-number-of-complete-components) |
 ## Union-Find
 |  |
 | ------- |
 | [0765-couples-holding-hands](https://github.com/dharmatej127/DSA/tree/master/0765-couples-holding-hands) |
+| [1971-find-if-path-exists-in-graph](https://github.com/dharmatej127/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/dharmatej127/DSA/tree/master/2685-count-the-number-of-complete-components) |
 ## Graph Theory
 |  |
@@ -503,6 +506,7 @@
 | [0207-course-schedule](https://github.com/dharmatej127/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/dharmatej127/DSA/tree/master/0210-course-schedule-ii) |
 | [0765-couples-holding-hands](https://github.com/dharmatej127/DSA/tree/master/0765-couples-holding-hands) |
+| [1971-find-if-path-exists-in-graph](https://github.com/dharmatej127/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/dharmatej127/DSA/tree/master/2685-count-the-number-of-complete-components) |
 ## Topological Sort
 |  |
