@@ -52,6 +52,7 @@
 | [0747-largest-number-at-least-twice-of-others](https://github.com/dharmatej127/DSA/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0769-max-chunks-to-make-sorted](https://github.com/dharmatej127/DSA/tree/master/0769-max-chunks-to-make-sorted) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/dharmatej127/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0864-shortest-path-to-get-all-keys](https://github.com/dharmatej127/DSA/tree/master/0864-shortest-path-to-get-all-keys) |
 | [0875-koko-eating-bananas](https://github.com/dharmatej127/DSA/tree/master/0875-koko-eating-bananas) |
 | [0905-sort-array-by-parity](https://github.com/dharmatej127/DSA/tree/master/0905-sort-array-by-parity) |
 | [0908-smallest-range-i](https://github.com/dharmatej127/DSA/tree/master/0908-smallest-range-i) |
@@ -297,6 +298,7 @@
 | [0200-number-of-islands](https://github.com/dharmatej127/DSA/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/dharmatej127/DSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/dharmatej127/DSA/tree/master/0463-island-perimeter) |
+| [0864-shortest-path-to-get-all-keys](https://github.com/dharmatej127/DSA/tree/master/0864-shortest-path-to-get-all-keys) |
 | [0994-rotting-oranges](https://github.com/dharmatej127/DSA/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/dharmatej127/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1672-richest-customer-wealth](https://github.com/dharmatej127/DSA/tree/master/1672-richest-customer-wealth) |
@@ -324,6 +326,7 @@
 | [0191-number-of-1-bits](https://github.com/dharmatej127/DSA/tree/master/0191-number-of-1-bits) |
 | [0389-find-the-difference](https://github.com/dharmatej127/DSA/tree/master/0389-find-the-difference) |
 | [0397-integer-replacement](https://github.com/dharmatej127/DSA/tree/master/0397-integer-replacement) |
+| [0864-shortest-path-to-get-all-keys](https://github.com/dharmatej127/DSA/tree/master/0864-shortest-path-to-get-all-keys) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/dharmatej127/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/dharmatej127/DSA/tree/master/1486-xor-operation-in-an-array) |
 | [2527-find-xor-beauty-of-array](https://github.com/dharmatej127/DSA/tree/master/2527-find-xor-beauty-of-array) |
@@ -498,6 +501,7 @@
 | [0417-pacific-atlantic-water-flow](https://github.com/dharmatej127/DSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/dharmatej127/DSA/tree/master/0463-island-perimeter) |
 | [0765-couples-holding-hands](https://github.com/dharmatej127/DSA/tree/master/0765-couples-holding-hands) |
+| [0864-shortest-path-to-get-all-keys](https://github.com/dharmatej127/DSA/tree/master/0864-shortest-path-to-get-all-keys) |
 | [0994-rotting-oranges](https://github.com/dharmatej127/DSA/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/dharmatej127/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1971-find-if-path-exists-in-graph](https://github.com/dharmatej127/DSA/tree/master/1971-find-if-path-exists-in-graph) |
