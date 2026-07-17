@@ -208,6 +208,7 @@
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/dharmatej127/DSA/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/dharmatej127/DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/dharmatej127/DSA/tree/master/3591-check-if-any-element-has-prime-frequency) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/dharmatej127/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3875-construct-uniform-parity-array-i](https://github.com/dharmatej127/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
@@ -486,6 +487,7 @@
 | ------- |
 | [0258-add-digits](https://github.com/dharmatej127/DSA/tree/master/0258-add-digits) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/dharmatej127/DSA/tree/master/3591-check-if-any-element-has-prime-frequency) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/dharmatej127/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Breadth-First Search
 |  |
 | ------- |
