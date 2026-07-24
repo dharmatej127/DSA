@@ -9,6 +9,7 @@
 | [0035-search-insert-position](https://github.com/dharmatej127/DSA/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/dharmatej127/DSA/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/dharmatej127/DSA/tree/master/0045-jump-game-ii) |
+| [0046-permutations](https://github.com/dharmatej127/DSA/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/dharmatej127/DSA/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/dharmatej127/DSA/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/dharmatej127/DSA/tree/master/0055-jump-game) |
@@ -257,6 +258,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/dharmatej127/DSA/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/dharmatej127/DSA/tree/master/0051-n-queens) |
 ## Simulation
 |  |
