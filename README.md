@@ -79,6 +79,7 @@
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/dharmatej127/DSA/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/dharmatej127/DSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/dharmatej127/DSA/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/dharmatej127/DSA/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/dharmatej127/DSA/tree/master/3131-find-the-integer-added-to-array-i) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/dharmatej127/DSA/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/dharmatej127/DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -151,6 +152,7 @@
 | [2299-strong-password-checker-ii](https://github.com/dharmatej127/DSA/tree/master/2299-strong-password-checker-ii) |
 | [2315-count-asterisks](https://github.com/dharmatej127/DSA/tree/master/2315-count-asterisks) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/dharmatej127/DSA/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/dharmatej127/DSA/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [3174-clear-digits](https://github.com/dharmatej127/DSA/tree/master/3174-clear-digits) |
 | [3340-check-balanced-string](https://github.com/dharmatej127/DSA/tree/master/3340-check-balanced-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/dharmatej127/DSA/tree/master/3498-reverse-degree-of-a-string) |
